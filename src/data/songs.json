@@ -1,5 +1,25 @@
 [
     {
+        "name": "限りなく灰色へ【Shinonome Ena】",
+        "artist": "Shinonome Ena",
+        "singer": "ena",
+        "translatedName": "",
+        "length": "4:32",
+        "type": "Standalone",
+        "hasLyrics": "Yes",
+        "album": "",
+        "releaseDate": "2025-02-09T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=VsCfBIPgGu8",
+        "desc": "/",
+        "staff": "Vocal：ena",
+        "fileName": "限りなく灰色へ【Shinonome Ena】.flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": "ena-solo.jpeg"
+    },
+    {
         "name": "Cute na Kanojo【Shinonome Ena】",
         "artist": "Shinonome Ena",
         "singer": "ena",
@@ -40,7 +60,7 @@
         "cover": "jn.jpeg"
     },
     {
-        "name": "泥中に咲く / 25時、ナイトコードで。 × 初音ミク",
+        "name": "泥中に咲く / 25時、ナイトコードで。",
         "artist": "25ji-Nightcord",
         "singer": "miku, mizukana",
         "translatedName": "",
@@ -60,7 +80,7 @@
         "cover": "rain2.jpg"
     },
     {
-        "name": "I Am Rain / 25時、ナイトコードで。 × 初音ミク",
+        "name": "I Am Rain / 25時、ナイトコードで。",
         "artist": "25ji-Nightcord",
         "singer": "Kagamine Len, mafuena, mizukana",
         "translatedName": "",
@@ -80,7 +100,7 @@
         "cover": "rain.jpg"
     },
     {
-        "name": "独りんぼエンヴィー / 25時、ナイトコードで。 × 初音ミク",
+        "name": "独りんぼエンヴィー / 25時、ナイトコードで。",
         "artist": "25ji-Nightcord",
         "singer": "miku, mizukana",
         "translatedName": "",
@@ -100,7 +120,7 @@
         "cover": "mizukana.jpg"
     },
     {
-        "name": "余花にみとれて / 25時、ナイトコードで。 × MEIKO",
+        "name": "余花にみとれて / 25時、ナイトコードで。",
         "artist": "25ji-Nightcord",
         "singer": "meiko, mafuena, mizukana",
         "translatedName": "",
@@ -120,7 +140,7 @@
         "cover": "Yoka_ni_mitorete.jpg"
     },
     {
-        "name": "アイディスマイル / 25時、ナイトコードで。 × MEIKO",
+        "name": "アイディスマイル / 25時、ナイトコードで。",
         "artist": "25ji-Nightcord",
         "singer": "meiko, mafuena, mizukana",
         "translatedName": "",
@@ -140,7 +160,7 @@
         "cover": "id.jpg"
     },
     {
-        "name": "Bad Apple!! feat.SEKAI / 25時、ナイトコードで。 × 初音ミク",
+        "name": "Bad Apple!! feat.SEKAI / 25時、ナイトコードで。",
         "artist": "25ji-Nightcord",
         "singer": "miku, mafuena, mizukana",
         "translatedName": "",
@@ -160,7 +180,7 @@
         "cover": "bad-apple.jpg"
     },
     {
-        "name": "D/N/A / 25時、ナイトコードで。 × 鏡音リン",
+        "name": "D/N/A / 25時、ナイトコードで。",
         "artist": "25ji-Nightcord",
         "singer": "Rin, mafuena, mizukana",
         "translatedName": "",
