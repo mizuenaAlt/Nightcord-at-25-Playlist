@@ -14,7 +14,7 @@ function App() {
 			<TopAppBar
 				rightButtons={
 					<>
-						<a href="https://github.com/RennAlt" target="_blank" rel="noreferrer noopener" className="github-link">
+						<a href="https://github.com/mizuenaAlt" target="_blank" rel="noreferrer noopener" className="github-link">
 							<IconButton>
 								<FaGithub/>
 							</IconButton>
