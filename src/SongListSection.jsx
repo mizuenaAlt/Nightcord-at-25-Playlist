@@ -25,7 +25,7 @@ const songs = getSongsData();
 export function SongListSection(props) {
 	const queueManager = useContext(QueueContext);
 
-	const [selectedTypes, setSelectedTypes] = useStateStorage(['standalone', 'solo'], 'song-type-filter');
+	const [selectedTypes, setSelectedTypes] = useStateStorage(['all', 'solo'], 'song-type-filter');
 	const [listStyle, setListStyle] = useStateStorage('grid', 'song-list-style');
 	const [sortCriteria, setSortCriteria] = useStateStorage('date', 'song-sort-criteria');
 	const [sortDirection, setSortDirection] = useStateStorage('asc', 'song-sort-direction');
@@ -71,7 +71,7 @@ export function SongListSection(props) {
 					<SegmentedButtons
 						className="song-type-filter"
 						buttons={[
-							{label: 'Standalone', value: 'standalone', selected: selectedTypes.includes('standalone')},
+							{label: 'All', value: 'all', selected: selectedTypes.includes('all')},
 							{label: 'Solo', value: 'solo', selected: selectedTypes.includes('solo')},
 							{label: 'Short', value: 'short', selected: selectedTypes.includes('short')},
 						]}
