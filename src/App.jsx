@@ -9,11 +9,21 @@ import { EntryDetailsDialog } from './EntryDetailsDialog.jsx'
 import './App.scss'
 
 function App() {
+	const [searchQuery, setSearchQuery] = useState('');
+
 	return (
 		<>
 			<TopAppBar
 				rightButtons={
 					<>
+
+						<input
+							type="text"
+							className="song-search-input"
+							placeholder="Search songs..."
+							value={searchQuery}
+							onChange={(e) => setSearchQuery(e.target.value)}
+						/>
 						<a href="https://github.com/mizuenaAlt" target="_blank" rel="noreferrer noopener" className="github-link">
 							<IconButton>
 								<FaGithub/>
@@ -28,7 +38,7 @@ function App() {
 				<SongCount/>
 			</TopAppBar>
 			<div className="main">
-				<SongListSection/>
+				<SongListSection searchQuery={searchQuery} />
 				<NowPlayingSection/>
 			</div>
 			<EntryDetailsDialog/>

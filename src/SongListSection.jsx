@@ -33,8 +33,22 @@ export function SongListSection(props) {
 	const [showExtraInfo, setShowExtraInfo] = useStateStorage(false, 'song-show-extra-info');
 
 	const filteredSongs = songs
-		.filter((song) => selectedTypes.includes(song.type.toLowerCase()))
+		.filter((song) => {
+			if (props?.searchQuery?.trim()) return true;
+			return selectedTypes.includes(song.type.toLowerCase());
+		})
 		.filter((song) => !(hideInstrumentals && !song.hasLyrics))
+		.filter((song) => {
+			if (!props?.searchQuery?.trim()) return true;
+			const query = props?.searchQuery?.trim().toLowerCase();
+			return (
+				song.name.toLowerCase().includes(query) ||
+				song.artist?.toLowerCase().includes(query) ||
+				song.singer?.toLowerCase().includes(query) ||
+				song.translatedName?.toLowerCase().includes(query) ||
+				song.album?.toLowerCase().includes(query)
+			);
+		})
 		.sort((a, b) => {
 			return (() => {
 				if (sortCriteria === 'date') {

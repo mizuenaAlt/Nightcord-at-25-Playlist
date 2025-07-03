@@ -308,3 +308,31 @@
 	background-color: color-mix(in srgb, var(--md-sys-color-error-container) 40%, transparent 50%);
     color: var(--md-sys-color-error);
 }
+
+.song-search-input {
+	padding: 10px 16px;
+	font-size: 1rem;
+	border: 1.5px solid var(--md-sys-color-outline);
+	border-radius: 24px;
+	width: 100%;
+	max-width: 280px;
+	background-color: var(--md-sys-color-surface);
+	color: var(--md-sys-color-on-surface);
+	box-sizing: border-box;
+	transition: border-color 0.3s ease, box-shadow 0.3s ease;
+	outline: none;
+	margin-top: 8px;
+}
+
+.song-search-input:focus {
+	border-color: var(--md-sys-color-primary);
+	box-shadow: 0 0 8px var(--md-sys-color-primary);
+}
+
+@media (max-width: 480px) {
+	.song-search-input {
+		max-width: 18vw;
+		font-size: 0.9rem;
+		padding: 8px 14px;
+	}
+}
