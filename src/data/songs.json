@@ -1,5 +1,25 @@
 [
     {
+        "name": "Irony / 東雲絵名",
+        "artist": "Shinonome Ena",
+        "singer": "ena",
+        "translatedName": "",
+        "length": "2:21",
+        "type": "Solo",
+        "hasLyrics": "Yes",
+        "album": "",
+        "releaseDate": "2025-02-09T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=oz7TZU_rKiQ",
+        "desc": "/",
+        "staff": "Vocal：ena",
+        "fileName": "Irony / 東雲絵名.flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": "irony.jpg"
+    },
+    {
         "name": "限りなく灰色へ / 東雲絵名",
         "artist": "Shinonome Ena",
         "singer": "ena",
