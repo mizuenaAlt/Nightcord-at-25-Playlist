@@ -17,7 +17,13 @@
         "highestQuality": "Yes",
         "note": null,
         "hidden": null,
-        "cover": "irony.jpg"
+        "cover": "irony.jpg",
+        "lyrics": "東雲絵名.json",
+        "lyricsLangs": [
+            "ja",
+            "cn",
+            "ro"
+        ]
     },
     {
         "name": "限りなく灰色へ / 東雲絵名",
