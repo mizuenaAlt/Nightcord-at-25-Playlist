@@ -16,10 +16,10 @@ export default defineConfig({
 		ViteImageOptimizer({
   			test: /\.(jpe?g|png|gif|tiff|webp|avif)$/i,
 			png: {
-				quality: 100,
+				quality: 70,
 			},
 			jpg: {
-				quality: 100,
+				quality: 70,
 			},
 		}),
 	],
