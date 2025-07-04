@@ -103,13 +103,7 @@
         "highestQuality": "Yes",
         "note": null,
         "hidden": null,
-        "cover": "rain2.jpg",
-        "lyrics": "irony.json",
-        "lyricsLangs": [
-            "ja",
-            "cn",
-            "ro"
-        ]
+        "cover": "rain2.jpg"
     },
     {
         "name": "I Am Rain",
