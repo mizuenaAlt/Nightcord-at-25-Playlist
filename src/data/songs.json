@@ -20,6 +20,8 @@
         "cover": "irony.jpg",
         "lyrics": "irony.json",
         "lyricsLangs": [
+            "ja",
+            "cn",
             "ro"
         ]
     },
