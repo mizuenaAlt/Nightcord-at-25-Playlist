@@ -7,7 +7,7 @@
         "length": "2:21",
         "type": "Solo",
         "hasLyrics": "Yes",
-        "album": "",
+        "album": "null",
         "releaseDate": "2025-02-09T00:00:00.000Z",
         "link": "https://www.youtube.com/watch?v=oz7TZU_rKiQ",
         "desc": "/",
@@ -18,10 +18,8 @@
         "note": null,
         "hidden": null,
         "cover": "irony.jpg",
-        "lyrics": "東雲絵名.json",
+        "lyrics": "irony.json",
         "lyricsLangs": [
-            "ja",
-            "cn",
             "ro"
         ]
     },
