@@ -66,6 +66,26 @@
         "cover": "nomad2.jpg"
     },
     {
+        "name": "Venom / 東雲絵名",
+        "artist": "Shinonome Ena",
+        "singer": "ena",
+        "translatedName": "",
+        "length": "3:16",
+        "type": "Solo",
+        "hasLyrics": "Yes",
+        "album": "",
+        "releaseDate": "2025-02-09T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=YkIoqDIg5f8",
+        "desc": "/",
+        "staff": "Vocal: ena",
+        "fileName": "Venom / 東雲絵名.flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": "venom.jpg"
+    },
+    {
         "name": "Cute na Kanojo / 東雲絵名",
         "artist": "Shinonome Ena",
         "singer": "ena",
