@@ -26,6 +26,26 @@
         ]
     },
     {
+        "name": "IDSMILE / Mizuena",
+        "artist": "Mizuena",
+        "singer": "mizuki, ena",
+        "translatedName": "",
+        "length": "3:00",
+        "type": "All",
+        "hasLyrics": "Yes",
+        "album": "null",
+        "releaseDate": "2025-02-09T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=dnMWD_OKwB8",
+        "desc": "/",
+        "staff": "Vocal mizuki, ena",
+        "fileName": "IDSMILE / Mizuena.flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": "IDSMILE.jpg"
+    },
+    {
         "name": "限りなく灰色へ / 東雲絵名",
         "artist": "Shinonome Ena",
         "singer": "ena",
