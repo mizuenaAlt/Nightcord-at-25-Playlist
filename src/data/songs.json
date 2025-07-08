@@ -86,6 +86,26 @@
         "cover": "venom.jpg"
     },
     {
+        "name": "ビターチョコデコレーション / 東雲絵名",
+        "artist": "Shinonome Ena",
+        "singer": "ena",
+        "translatedName": "",
+        "length": "3:15",
+        "type": "Solo",
+        "hasLyrics": "Yes",
+        "album": "",
+        "releaseDate": "2025-02-09T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=cYbc6qe-_0w",
+        "desc": "/",
+        "staff": "Vocal: ena",
+        "fileName": "ビターチョコデコレーション / 東雲絵名.flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": "choco.jpg"
+    },
+    {
         "name": "Cute na Kanojo / 東雲絵名",
         "artist": "Shinonome Ena",
         "singer": "ena",
