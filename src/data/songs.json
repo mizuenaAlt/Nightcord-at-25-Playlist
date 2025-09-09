@@ -1,5 +1,26 @@
 [
     {
+        "name": "DECO*27 - モニタリング (Best Friend Remix) 初音ミク",
+        "artist": "DECO*27",
+        "singer": "初音ミク",
+        "translatedName": "",
+        "length": "3:02",
+        "type": "Solo",
+        "hasLyrics": "Yes",
+        "album": "null",
+        "releaseDate": "2025-02-09T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=C-CYwNz3z8w",
+        "desc": "/",
+        "staff": "OTOIRO",
+        "fileName": "DECO*27 - Monitoring (Best Friend Remix) feat. Hatsune Miku.flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": "deco.jpg",
+        "lyrics": "deco.json"
+    },
+    {
         "name": "Irony / 東雲絵名",
         "artist": "Shinonome Ena",
         "singer": "ena",
